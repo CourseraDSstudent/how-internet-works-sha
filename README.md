@@ -1,4 +1,4 @@
 * https://nikoshacker.netlify.app/
-* 2-3 days 3-5 hours total
-* not stacked yet
-* personally I find difficult the layout, the contents and the css - when I had the content (images, text) ready I didn't have idea in my mind or a plan how the layout will be. It was an ugly page with images of different sizes and random alignment.
+* How much time did it take for me: 3-4 days 5-6 hours total
+* Where did I get stuck? How did I get unstuck: not stacked
+* What were the difficult parts: personally I find difficult the layout, the contents and the css - when I had the content (images, text) ready I didn't have idea in my mind or a plan how the layout will be. It was an ugly page with images of different sizes and random alignment. Different dimension images. My main difficulty was to find a way to have the different images to a correct and consistent size suitable to three different screen sizes (smartphone, full screen windows PC, half screen windows PC)

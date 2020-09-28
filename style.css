@@ -9,8 +9,29 @@ body {
   p {
     font-family: verdana;
     font-size: 20px;
+    padding: 20px;
   }
 
   .essay {
       color: blue;
   }
+
+  img {
+  max-width: 60%;
+  height: auto;
+}
+
+/* .alikiscontainer {
+  display: flex;
+  flex-direction: row;
+}
+
+#internetprotocols {
+  width: 50%;
+  height: 50%;
+}
+
+#DNS {
+  width: 50%;
+  height: 50%;
+} */
